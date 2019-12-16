@@ -1,6 +1,9 @@
 import React from 'react';
 import './App.css';
 import { Button, Form, FormGroup, Label, Input } from 'reactstrap';
+import Home from './Home.js';
+import Login from './Login.js';
+
 
 function App() {
   return (
