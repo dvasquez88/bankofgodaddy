@@ -1,7 +1,6 @@
 {
   "name": "godaddyatm",
   "version": "0.1.0",
-  "main": "App.js",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -16,7 +15,7 @@
     "reactstrap": "^8.2.0"
   },
   "scripts": {
-    "start": "npm start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
